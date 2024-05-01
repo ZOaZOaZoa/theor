@@ -1,0 +1,10 @@
+\babel@toc {russian}{}\relax 
+\contentsline {section}{\numberline {1}Линейная регрессия}{3}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Постановка задачи}{3}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Предположения метода}{3}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}Метод множественной линейной регрессии и его интерпретация}{3}{subsection.1.3}%
+\contentsline {subsection}{\numberline {1.4}Оценка адекватности модели}{4}{subsection.1.4}%
+\contentsline {section}{\numberline {2}Метод наименьших квадратов для прогноза временных рядов}{5}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Задача прогноза временных рядов}{5}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Постановка задачи метода наименьших квадратов}{6}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Решение по методу МНК}{6}{subsection.2.3}%
